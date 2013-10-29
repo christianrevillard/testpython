@@ -1,0 +1,11 @@
+import cgi
+import webapp2
+
+from google.appengine.api import users
+
+MAIN_PAGE_HTML = "Bonjour!"
+
+class MainPage(webapp2.RequestHandler):
+
+    def get(self):
+        self.response.write(MAIN_PAGE_HTML)
