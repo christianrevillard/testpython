@@ -1,0 +1,7 @@
+<html>
+  <body>
+    <a href="/testForms">Test forms</a><br/>
+    <a href="/helloWorld">Hello world</a><br/>
+    <a href="/staticFiles">Static Files</a><br/>
+  </body>
+</html>

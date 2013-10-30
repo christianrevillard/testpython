@@ -2063,7 +2063,9 @@ oauth2client.file|C:\Program Files (x86)\Google\google_appengine\lib\google-api-
 oauth2client.multistore_file|C:\Program Files (x86)\Google\google_appengine\lib\google-api-python-client\oauth2client\multistore_file.py
 oauth2client.tools|C:\Program Files (x86)\Google\google_appengine\lib\google-api-python-client\oauth2client\tools.py
 old_dev_appserver|C:\Program Files (x86)\Google\google_appengine\old_dev_appserver.py
-page123.page1|C:\Users\Christian\workspace\crewebtest\src\page123\page1.py
+page1|C:\Users\Christian\workspace\crewebtest\src\page1.py
+page123.page2|C:\Users\Christian\workspace\crewebtest\src\page123\page2.py
+page123.page3|C:\Users\Christian\workspace\crewebtest\src\page123\page3.py
 pkg_resources|C:\Program Files (x86)\Google\google_appengine\lib\setuptools-0.6c11\pkg_resources.py
 prettytable.__init__|C:\Program Files (x86)\Google\google_appengine\lib\prettytable\prettytable\__init__.py
 protorpc.__init__|C:\Program Files (x86)\Google\google_appengine\lib\protorpc\protorpc\__init__.py
