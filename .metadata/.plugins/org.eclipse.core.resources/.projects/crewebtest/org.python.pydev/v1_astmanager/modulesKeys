@@ -1,4 +1,12 @@
 MODULES_MANAGER_V2
+HelloWorld.__init__|C:\Users\Christian\workspace\crewebtest\src\HelloWorld\__init__.py
+HelloWorld.helloworld|C:\Users\Christian\workspace\crewebtest\src\HelloWorld\helloworld.py
+StaticFiles.__init__|C:\Users\Christian\workspace\crewebtest\src\StaticFiles\__init__.py
+StaticFiles.template|C:\Users\Christian\workspace\crewebtest\src\StaticFiles\template.py
+Templates.__init__|C:\Users\Christian\workspace\crewebtest\src\Templates\__init__.py
+Templates.template|C:\Users\Christian\workspace\crewebtest\src\Templates\template.py
+TestForms.__init__|C:\Users\Christian\workspace\crewebtest\src\TestForms\__init__.py
+TestForms.testForms|C:\Users\Christian\workspace\crewebtest\src\TestForms\testForms.py
 __init__|C:\Program Files (x86)\Google\google_appengine\lib\fancy_urllib\__init__.py
 _python_runtime|C:\Program Files (x86)\Google\google_appengine\_python_runtime.py
 antlr3.__init__|C:\Program Files (x86)\Google\google_appengine\lib\antlr3\antlr3\__init__.py
@@ -2063,9 +2071,6 @@ oauth2client.file|C:\Program Files (x86)\Google\google_appengine\lib\google-api-
 oauth2client.multistore_file|C:\Program Files (x86)\Google\google_appengine\lib\google-api-python-client\oauth2client\multistore_file.py
 oauth2client.tools|C:\Program Files (x86)\Google\google_appengine\lib\google-api-python-client\oauth2client\tools.py
 old_dev_appserver|C:\Program Files (x86)\Google\google_appengine\old_dev_appserver.py
-page1|C:\Users\Christian\workspace\crewebtest\src\page1.py
-page123.page2|C:\Users\Christian\workspace\crewebtest\src\page123\page2.py
-page123.page3|C:\Users\Christian\workspace\crewebtest\src\page123\page3.py
 pkg_resources|C:\Program Files (x86)\Google\google_appengine\lib\setuptools-0.6c11\pkg_resources.py
 prettytable.__init__|C:\Program Files (x86)\Google\google_appengine\lib\prettytable\prettytable\__init__.py
 protorpc.__init__|C:\Program Files (x86)\Google\google_appengine\lib\protorpc\protorpc\__init__.py

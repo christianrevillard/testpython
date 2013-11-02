@@ -5,6 +5,10 @@ import TestForms.testForms
 import HelloWorld.helloworld
 import StaticFiles.template
 import Templates.template
+import DataStore.datastore
+import Test.test
+import UserService.userservice
+import WebApp2.helloWebApp2
 
 JINJA_ENVIRONMENT = jinja2.Environment(
     loader=jinja2.FileSystemLoader(os.path.dirname(__file__)))
@@ -26,5 +30,10 @@ app = webapp2.WSGIApplication([
         ('/staticFiles', StaticFiles.template.MainPage),
         ('/staticFiles/sign', StaticFiles.template.Guestbook),
         ('/templates', Templates.template.MainPage),
-        ('/templates/sign', Templates.template.Guestbook)
+        ('/templates/sign', Templates.template.Guestbook),
+        ('/dataStore', DataStore.datastore.MainPage),
+        ('/dataStore/sign', DataStore.datastore.Guestbook),
+        ('/test', Test.test.Index),
+        ('/userService', UserService.userservice.MainPage),
+        ('/webApp2', WebApp2.helloWebApp2.MainPage),        
         ], debug=True)
