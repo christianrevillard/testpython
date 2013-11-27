@@ -1,12 +1,20 @@
 MODULES_MANAGER_V2
+DataStore.__init__|C:\Users\Christian\workspace\crewebtest\src\DataStore\__init__.py
+DataStore.datastore|C:\Users\Christian\workspace\crewebtest\src\DataStore\datastore.py
 HelloWorld.__init__|C:\Users\Christian\workspace\crewebtest\src\HelloWorld\__init__.py
 HelloWorld.helloworld|C:\Users\Christian\workspace\crewebtest\src\HelloWorld\helloworld.py
 StaticFiles.__init__|C:\Users\Christian\workspace\crewebtest\src\StaticFiles\__init__.py
 StaticFiles.template|C:\Users\Christian\workspace\crewebtest\src\StaticFiles\template.py
 Templates.__init__|C:\Users\Christian\workspace\crewebtest\src\Templates\__init__.py
 Templates.template|C:\Users\Christian\workspace\crewebtest\src\Templates\template.py
+Test.__init__|C:\Users\Christian\workspace\crewebtest\src\Test\__init__.py
+Test.test|C:\Users\Christian\workspace\crewebtest\src\Test\test.py
 TestForms.__init__|C:\Users\Christian\workspace\crewebtest\src\TestForms\__init__.py
 TestForms.testForms|C:\Users\Christian\workspace\crewebtest\src\TestForms\testForms.py
+UserService.__init__|C:\Users\Christian\workspace\crewebtest\src\UserService\__init__.py
+UserService.userservice|C:\Users\Christian\workspace\crewebtest\src\UserService\userservice.py
+WebApp2.__init__|C:\Users\Christian\workspace\crewebtest\src\WebApp2\__init__.py
+WebApp2.helloWebApp2|C:\Users\Christian\workspace\crewebtest\src\WebApp2\helloWebApp2.py
 __init__|C:\Program Files (x86)\Google\google_appengine\lib\fancy_urllib\__init__.py
 _python_runtime|C:\Program Files (x86)\Google\google_appengine\_python_runtime.py
 antlr3.__init__|C:\Program Files (x86)\Google\google_appengine\lib\antlr3\antlr3\__init__.py
